@@ -16,6 +16,6 @@
 - 信号量(Semaphore)
 - Mutex
 - 管道(Monitor)
-- LinuxFutex
+- Linux Futex
 
 ## 
